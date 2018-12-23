@@ -10,7 +10,7 @@ The `main.go` does the following,
 * Generates counts for Remote work, Titles, Visa, Lunch Perks
 * Generates skill counts.
 
-The `places.py` uses `GeoCities` (you need t0 install it before it works) module to generate locations from the text, aggregates the counts and stores the value in a json file.
+The `places.py` uses `GeoCities` (you need to install it before you run the code) module to generate locations from the text, aggregates the counts and stores the value in a json file.
 
 #### Charts
 
